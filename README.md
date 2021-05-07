@@ -16,3 +16,4 @@ PWD     签到机场登陆密码,与网站对应,多个密码用英文逗号分�
 SCKEY   可选设置，微信推送SCKEY码，详情参见http://sc.ftqq.com/
 
 KTKEY   可选设置，QQ推送Skey码，详情参见https://cp.xuthus.cc/
+ 
